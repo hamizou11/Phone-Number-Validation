@@ -1,0 +1,13 @@
+.form-control.ng-touched.ng-invalid {
+    border:1px solid red;
+   }
+   .form-control.ng-touched.ng-valid {
+    border:1px solid green;
+   }
+.bg-img{
+    position: fixed;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    z-index: -1;
+}   
